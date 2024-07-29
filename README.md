@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-- 🔭 I’m currently working on the project **Instachat**
+- 🔭 I’m currently working on the project **instagram-clone**
 
 - 🌱 I’m currently learning **Docker, kubernetes, Grpc**
 
